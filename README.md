@@ -1,5 +1,5 @@
 # TigerModz Cleaner 🚀
-# https://discord.gg/tigermodu
+# https://discord.gg/tigermodz
 
 ## 🌟 Description
 TigerModz Cleaner is a cutting-edge tool tailored for system optimization and privacy. It ensures a clean, fast, and trace-free system, making it ideal for users who want complete control over their PC's performance and appearance. With advanced features, this tool guarantees your system passes even the strictest inspections. 💻
